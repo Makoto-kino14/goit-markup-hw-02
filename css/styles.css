@@ -88,8 +88,7 @@ body {
     line-height: 1.36;
     letter-spacing: 0.06em;
     text-transform: uppercase;
-    color: #000;
-    /*color could not be seen, correct color: #ffffff; */
+    color: #fff;
 }
 
 /* =============== /HERO =============== */
@@ -180,9 +179,7 @@ body {
     line-height: 1.19;
     letter-spacing: 0.03em;
     color: #fff;
-    background-color: #2F303A;
 
-    /*color could not be seen, no background is required; */
 }
 
 .address-link {
